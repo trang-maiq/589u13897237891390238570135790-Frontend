@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is coming! Stay tuned for more details.",
+        "linkText": "Learn More"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!",
+        "title": "Yay: Unleash Your Inner Tech Enthusiast!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Unleash Your Inner Tech Enthusiast!",
+  "subtitle": "Dive into a world of innovative ideas and expert insights. Join our community where technology meets passion!"
+}
